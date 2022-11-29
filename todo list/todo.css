@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    height: 100vh;
+    
+}
+.col-md-5{
+    margin-top: 150px !important;
+    border-color: white;
+
+}
+h1{
+    text-align: center;
+    font-weight: bolder !important;
+    margin: 30px !important;
+    color: aliceblue;
+}
+input{
+    display: inline !important;
+    border: 3px solid black 1 !important;
+    width: 85% !important;
+
+
+}
+button{
+    margin-left: 10px !important;
+}

@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(to top, #505285 0%, #585e92 12%, #65689f 25%, #7474b0 37%, #7e7ebb 50%, #8389c7 62%, #9795d4 75%, #a2a1dc 87%, #b5aee4 100%);
+    margin-top: 137px !important
+
+}
+
+
+.col-md-6 
+{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    border: 5px solid black !important;
+
+}
+
+input[type=button] {
+    width: 100%;
+    background-color: green;
+    color: whitesmoke;
+    font-weight: bolder;
+    border: 4px solid salmon;
+}
+
+input[type=text] {
+    width: 100%;
+}
+
+h1 {
+    font-weight: bolder !important;
+    margin-top: 15px;
+}
